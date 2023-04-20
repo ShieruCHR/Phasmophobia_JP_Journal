@@ -4,3 +4,6 @@ Phasmophobiaの日本語ジャーナルとドキュメントです
 ドキュメント: https://phasmophobia.shieru-lab.com/document
 
 ソースコードはそのうち載せます
+
+# Support
+質問、バグ、提案などはIssuesへ  
